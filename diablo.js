@@ -35,7 +35,7 @@ chats: {},
 }
 
 global.ownerName = "YeeZyGanzz'
-global.ownerNumber = ["627861385512@s.whatsapp.net"]
+global.ownerNumber = ["2348160208114@s.whatsapp.net"]
 global.packname = 'YeeZy'
 global.author = 'YeeZy Botz'
 global.prefa = ['','.'!'$'?'#'/'_']
